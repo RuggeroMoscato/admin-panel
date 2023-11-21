@@ -2,7 +2,13 @@ import "./login.scss"
 
 const Login = () => {
   return (
-    <div>Login</div>
+    <div className="Login">
+    <Sidebar/>
+    <div className="LoginContainer">
+<Navbar/>
+    </div>
+    </div>
+
   )
 }
 
