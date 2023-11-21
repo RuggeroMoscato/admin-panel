@@ -1,9 +1,9 @@
 import Sidebar from "../../components/sidebar/Sidebar";
 import Navbar from "../../components/navbar/Navbar";
 import "./home.scss";
-import Widget from "../../components/widget/Widget";
+import Widget from "../../Components/Widget/widget";
 import Featured from "../../components/featured/Featured";
-import Chart from "../../components/chart/Chart";
+import Chart from "../../Components/Chart/Chart";
 import Table from "../../components/table/Table";
 
 const Home = () => {

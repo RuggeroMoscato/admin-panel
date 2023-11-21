@@ -87,6 +87,6 @@ const List = () => {
       </Table>
     </TableContainer>
   );
-}; 
+};
 
 export default List;
